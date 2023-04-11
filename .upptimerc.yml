@@ -16,7 +16,7 @@ status-website:
   cname: status.hostza.cloud
   # baseUrl: /your-repo-name
   logoUrl: https://cdn.discordapp.com/attachments/1043756934920155137/1090882966420459551/paladins_500_500_px.png
-  name: Upptime
+  name: Hostza Cloud
   introTitle: "**Hostza Cloud** A Hostza é uma empresa que oferece serviços de hospedagem de sites, servidores e domínios.."
   introMessage: teste
   navbar:
