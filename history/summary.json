@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/hostza.cloud.ico",
     "slug": "hostza",
     "status": "down",
-    "uptime": "5.79%",
-    "uptimeDay": "5.79%",
-    "uptimeWeek": "5.79%",
-    "uptimeMonth": "5.79%",
-    "uptimeYear": "5.79%",
-    "time": 113,
-    "timeDay": 113,
-    "timeWeek": 113,
-    "timeMonth": 113,
-    "timeYear": 113,
+    "uptime": "0.08%",
+    "uptimeDay": "0.08%",
+    "uptimeWeek": "0.08%",
+    "uptimeMonth": "0.08%",
+    "uptimeYear": "0.08%",
+    "time": 76,
+    "timeDay": 76,
+    "timeWeek": 76,
+    "timeMonth": 76,
+    "timeYear": 76,
     "dailyMinutesDown": {
-      "2023-04-11": 0
+      "2023-04-11": 26
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/hpanel.hostza.cloud.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "3.30%",
-    "uptimeDay": "3.30%",
-    "uptimeWeek": "3.30%",
-    "uptimeMonth": "3.30%",
-    "uptimeYear": "3.30%",
-    "time": 119,
-    "timeDay": 119,
-    "timeWeek": 119,
-    "timeMonth": 119,
-    "timeYear": 119,
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
+    "time": 75,
+    "timeDay": 75,
+    "timeWeek": 75,
+    "timeMonth": 75,
+    "timeYear": 75,
     "dailyMinutesDown": {
-      "2023-04-11": 0
+      "2023-04-11": 26
     }
   },
   {
@@ -50,13 +50,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 111,
-    "timeDay": 111,
-    "timeWeek": 111,
-    "timeMonth": 111,
-    "timeYear": 111,
+    "time": 73,
+    "timeDay": 73,
+    "timeWeek": 73,
+    "timeMonth": 73,
+    "timeYear": 73,
     "dailyMinutesDown": {
-      "2023-04-11": 0
+      "2023-04-11": 26
     }
   }
 ]
