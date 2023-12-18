@@ -1,7 +1,7 @@
 url: https://hostza.cloud
-status: up
-code: 200
-responseTime: 2208
-lastUpdated: 2023-12-18T19:47:17.619Z
+status: down
+code: 502
+responseTime: 643
+lastUpdated: 2023-12-18T21:24:17.800Z
 startTime: 2023-04-11T02:28:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
